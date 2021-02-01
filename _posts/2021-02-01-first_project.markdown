@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "First Project, yikes."
+title:      "First Project"
 date:       2021-02-01 17:22:19 -0500
 permalink:  first_project
 ---
